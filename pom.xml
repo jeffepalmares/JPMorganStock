@@ -65,7 +65,7 @@
 				<configuration>
 				  <archive>
 					<manifest>
-						<mainClass>com.jpmorgan.application.Application</mainClass>
+						<mainClass>com.jpmorgan.application.RestApplication</mainClass>
 					</manifest>
 				  </archive>
 				</configuration>

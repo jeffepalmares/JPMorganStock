@@ -11,15 +11,15 @@ import com.jpmorgan.controller.TradeController;
 import com.jpmorgan.model.Stock;
 import com.jpmorgan.model.StockSymbol;
 
-public class Application {
+public class StandAloneApp {
 	
-	private final static Logger logger = Logger.getLogger(Application.class);
+	private final static Logger logger = Logger.getLogger(StandAloneApp.class);
 	
 	private Random randomGenerator;
 	private StockController stockController;
 	private TradeController tradeController;
 	
-	public Application(){
+	public StandAloneApp(){
 		this.randomGenerator = new Random();
 		this.stockController = new StockController();
 		this.tradeController = new TradeController();
@@ -34,9 +34,9 @@ public class Application {
 		return stockList;
 	}
 	
-	public static void main(String[] args){
+	public static void runStandAlone(){
 		
-		Application app = new Application();
+		StandAloneApp app = new StandAloneApp();
 
 		for(Stock stock : app.getStockList()){
 			logger.info("The Dividend Yield is " + app.getStockController().calculateDividendYield(stock));

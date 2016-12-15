@@ -7,5 +7,5 @@ Build-Jdk: 1.8.0_111
 Implementation-URL: http://jpmorgan.com
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
-Main-Class: com.jpmorgan.application.Application
+Main-Class: com.jpmorgan.application.RestApplication
 

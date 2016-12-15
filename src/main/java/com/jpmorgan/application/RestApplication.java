@@ -2,6 +2,7 @@ package com.jpmorgan.application;
 
 import static springfox.documentation.builders.PathSelectors.regex;
 
+import org.apache.log4j.Logger;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
@@ -17,9 +18,22 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 @ComponentScan( basePackages = { "com.jpmorgan.rest.api" } ) 
 public class RestApplication {
-
+	
+	private final static Logger logger = Logger.getLogger(RestApplication.class);
+	
 	public static void main(String[] args) {
-        SpringApplication.run(RestApplication.class, args);
+		
+		logger.info("Starting Application...");
+		
+		logger.info("Running standAlone Application...");
+		StandAloneApp.runStandAlone();
+        
+		
+		logger.info("Starting Rest Api Application");
+		
+		SpringApplication.run(RestApplication.class, args);
+		
+		logger.info("Please access http://localhost:8080/swagger-ui.html");
     }
 
     
