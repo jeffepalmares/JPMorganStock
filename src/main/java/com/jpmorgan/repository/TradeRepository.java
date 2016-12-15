@@ -14,24 +14,33 @@ public class TradeRepository {
 	private List<Trade> repository;
 	
 	private TradeRepository(){
+		
 		this.repository = new ArrayList<Trade>();
+		
 	}
 	
-	public void saveTrade(Trade trade){
-		this.repository.add(trade);
+	public void saveTrade( Trade trade ){
+		
+		this.repository.add( trade );
+		
 	}
 	
 	public List<Trade> getAllLastFiveMinutes(){
 		
-		Date fiveMinutesAgo = new Date(new Date().getTime() - Constants.DefaultValue.FIVE_MINUTES_MILLISECONDS);
+		Date fiveMinutesAgo = new Date( new Date().getTime() - Constants.DefaultValue.FIVE_MINUTES_MILLISECONDS );
 		
-		return repository.stream().filter(t -> t.getDate().after(fiveMinutesAgo)).collect(Collectors.toList());
+		return repository.stream().filter( t -> t.getDate().after( fiveMinutesAgo ) ).collect( Collectors.toList() );
 		
 	}
  	
 	public static TradeRepository getSharedInstance(){
-		if(sharedInstance == null)
+		
+		if( sharedInstance == null ){
+		
 			sharedInstance = new TradeRepository();
+			
+		}
+		
 		return sharedInstance;
 	}
 	

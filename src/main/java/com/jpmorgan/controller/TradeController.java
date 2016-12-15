@@ -7,48 +7,81 @@ import com.jpmorgan.factory.ServiceFactory;
 import com.jpmorgan.model.Stock;
 import com.jpmorgan.model.Trade;
 import com.jpmorgan.service.TradeService;
+import com.jpmorgan.util.Validations;
 
 public class TradeController {
 
-	private final static Logger logger = Logger.getLogger(StockController.class);
+	private final static Logger logger = Logger.getLogger( StockController.class );
 	
 	private TradeService service;
 	
 	public TradeController(){
+		
 		this.service = ServiceFactory.createTradeService();
 		
 	}
 	
-	public void buy(Stock stock,Double price, int quantity)throws BusinessException{
-		logger.info("Called buy method.");
+	private boolean isNotValidateInput( Stock stock,Double price, int quantity ){
 		
-		if(price == null || stock == null){
-		
-			logger.error("Price or Stock can not be null");
+		if( price == null || price < 0 || Validations.isNotValidObject( stock ) ){
 			
-			throw new BusinessException("Price or Stock can not be null");
+			logger.warn("Price or Stock object not valid value, please check!");
+			
+			return Boolean.TRUE;
+			
+		}else if( quantity <= 0){
+			
+			logger.warn("Quantity can not be nagative or zero.");
+			
+			return Boolean.TRUE;
 		}
-		Trade trade = new Trade();
-		trade.setPrice(price);
-		trade.setQuantanty(quantity);
-		trade.setStock(stock);
-		this.service.buyOperation(trade);
 		
+
+		return Boolean.FALSE;
 	}
-	public void sell(Stock stock,Double price, int quantity) throws BusinessException{
-		logger.info("Called sell method.");
+	
+	public boolean buy(Stock stock,Double price, int quantity)throws BusinessException{
 		
-		if(price == null || stock == null){
+		logger.info( "Called buy method." );
 		
-			logger.error("Price or Stock can not be null");
-			
-			throw new BusinessException("Price or Stock can not be null");
+		if( isNotValidateInput( stock, price, quantity ) ){
+		
+			return Boolean.FALSE;
+		
 		}
-		Trade trade = new Trade();
-		trade.setPrice(price);
-		trade.setQuantanty(quantity);
-		trade.setStock(stock);
-		this.service.sellOperation(trade);
 		
+		Trade trade = new Trade();
+		
+		trade.setPrice( price );
+		
+		trade.setQuantanty( quantity );
+		
+		trade.setStock( stock );
+		
+		this.service.buyOperation( trade );
+		
+		return Boolean.TRUE;
+	}
+	
+	public boolean sell( Stock stock,Double price, int quantity ) throws BusinessException{
+		logger.info( "Called sell method." );
+		
+		if( isNotValidateInput( stock, price, quantity ) ){
+			
+			return Boolean.FALSE;
+		
+		}
+		
+		Trade trade = new Trade();
+		
+		trade.setPrice( price );
+		
+		trade.setQuantanty( quantity );
+		
+		trade.setStock( stock );
+		
+		this.service.sellOperation( trade );
+		
+		return Boolean.TRUE;
 	}
 }

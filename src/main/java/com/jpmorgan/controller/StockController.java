@@ -8,52 +8,80 @@ import com.jpmorgan.factory.StockFactory;
 import com.jpmorgan.model.Stock;
 import com.jpmorgan.model.StockSymbol;
 import com.jpmorgan.service.StockService;
+import com.jpmorgan.util.Validations;
 
 public class StockController {
 
-	private final static Logger logger = Logger.getLogger(StockController.class);
+	private final static Logger logger = Logger.getLogger( StockController.class );
 	
 	private StockService service;
 	
 	public StockController(){
+		
 		this.service = ServiceFactory.createStockService();
+		
 	}
 	
-	public Stock createStock(StockSymbol symbol, Double price){
-		logger.info("Called createStock method.");
+	public Stock createStock( StockSymbol symbol, Double price ){
+		
+		logger.info( "Called createStock method." );
+		
 		try{	
-			Stock stock = StockFactory.createStock(symbol,price);
+		
+			Stock stock = StockFactory.createStock( symbol,price );
 			
-			stock.setPrice(price);
+			stock.setPrice( price );
 		
 			return stock;
 			
-		}catch(BusinessException ex){
+		}catch( BusinessException ex ){
 			
-			logger.error(ex.getMessage());
+			logger.error( ex.getMessage() );
 			
 			return null;
 		}
 	}
 	
-	public Double calculateDividendYield(Stock stock){
-		logger.info("Called calculateDividendYield method.");
-		return service.calculateDividendYield(stock);
+	public Double calculateDividendYield( Stock stock ){
+		
+		logger.info( "Called calculateDividendYield method." );
+		
+		if( Validations.isNotValidObject( stock ) ){
+			
+			logger.info( "Stock Obect invalid, please check!." );
+			
+			return null;
+		}
+		
+		return service.calculateDividendYield( stock );
 	}
 	
-	public Double calculatePERatio(Stock stock){
-		logger.info("Called calculatePERatio method.");
-		return service.calculatePERatio(stock);
+	public Double calculatePERatio( Stock stock ){
+		
+		logger.info( "Called calculatePERatio method." );
+		
+		if( Validations.isNotValidObject( stock ) ){
+			
+			logger.info( "Stock Obect invalid, please check!." );
+			
+			return null;
+			
+		}
+		
+		return service.calculatePERatio( stock );
 	}
 	
 	public Double calculateVolumeWeightedStockPrice(){
-		logger.info("Called calculateVolumeWeightedStockPrice method.");
+		
+		logger.info( "Called calculateVolumeWeightedStockPrice method." );
 		
 		return service.calculateVolumeWeightedStockPrice();
 		
 	}
+	
 	public Double calculateGBCE(){
-		logger.info("Called calculateGBCE method.");
+		
+		logger.info( "Called calculateGBCE method." );
 		
 		return service.calculateGBCE();
 		

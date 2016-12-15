@@ -1,5 +1,11 @@
 Manifest-Version: 1.0
-Built-By: jeffersoncardosos
-Build-Jdk: 1.8.0_65
+Implementation-Title: JPMorganStock
+Implementation-Version: 1.0
+Built-By: 12679
+Implementation-Vendor-Id: com.jpmorgan
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://jpmorgan.com
 Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.jpmorgan.application.Application
 
