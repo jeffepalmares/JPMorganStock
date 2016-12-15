@@ -4,17 +4,20 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 
+import org.apache.log4j.Logger;
 import org.junit.Test;
 
 import com.jpmorgan.controller.StockController;
 import com.jpmorgan.model.Stock;
 
 public class StockTest {
-
-	UtilTest utilTest = new UtilTest();
+	
+	private final static Logger logger = Logger.getLogger( StockTest.class );
+	
+	private UtilTest utilTest = new UtilTest();
 	
 	@Test
-	public void testValidateNullValues() {
+	public void testCreateStockWithNullValues() {
 		
 		StockController stockController = new StockController();
 		
@@ -41,7 +44,7 @@ public class StockTest {
 		
 		Double value = stockController.calculateDividendYield( utilTest.createStock() );
 		
-		System.out.println( "Dividend Yield value: " + value );
+		logger.info( "Dividend Yield value: " + value );
 		
 		assertNotNull( value );
 	}
@@ -63,7 +66,7 @@ public class StockTest {
 		
 		Double value = stockController.calculatePERatio( utilTest.createStock() );
 		
-		System.out.println( "P/Ratio value: " + value );
+		logger.info( "P/Ratio value: " + value );
 		
 		assertNotNull( value );
 	}
@@ -75,7 +78,7 @@ public class StockTest {
 		
 		Double value = stockController.calculateVolumeWeightedStockPrice();
 		
-		System.out.println( "Volume Weighted Stock Price value: " + value );
+		logger.info( "Volume Weighted Stock Price value: " + value );
 		
 		assertEquals( value , 0,0 ); 
 	}
@@ -87,7 +90,7 @@ public class StockTest {
 		
 		Double value = stockController.calculateGBCE();
 		
-		System.out.println( "GBCE value: " + value );
+		logger.info( "GBCE value: " + value );
 		
 		assertEquals( value , 0,0 );
 	}

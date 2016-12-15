@@ -21,7 +21,7 @@ public class TradeApi {
 
 	private TradeController tradeController = new TradeController();
 	
-	@RequestMapping( value = "/StockApi/Trade/buy" , method = RequestMethod.POST)
+	@RequestMapping( value = "/StockApi/Trade/buy" , method = RequestMethod.PUT)
 	@ApiOperation( value = "tradeBuyOperation" )
     public String tradeBuyOperation( @RequestBody TradeRequest requestBody ){
 		
@@ -37,20 +37,18 @@ public class TradeApi {
 				
 				return "Operation successfully";
 			}
-			
-			return "please Check your request!";
+				
+			return "Ops.. Sorry something went wrong, please try again!";
 			
 		}catch ( IllegalArgumentException e ) {
 			
-			return " Stock Symbol invalid, please check! ";
+			throw new BusinessException (" Stock Symbol invalid, please check! ");
 			
-		}catch (BusinessException e) {
-			return e.getMessage();
 		}
 		
 	}
 	
-	@RequestMapping( value = "/StockApi/Trade/sell" , method = RequestMethod.POST)
+	@RequestMapping( value = "/StockApi/Trade/sell" , method = RequestMethod.PUT)
 	@ApiOperation( value = "doTradeSell" )
 	@ApiImplicitParams({
         @ApiImplicitParam(paramType = "body" )
@@ -74,11 +72,10 @@ public class TradeApi {
 			
 		}catch ( IllegalArgumentException e ) {
 			
-			return " Stock Symbol invalid, please check! ";
+			throw new BusinessException (" Stock Symbol invalid, please check! ");
 			
-		}catch (BusinessException e) {
-			return e.getMessage();
 		}
 		
 	}
+	
 }

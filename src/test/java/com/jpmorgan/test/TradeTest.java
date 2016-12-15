@@ -10,7 +10,7 @@ import com.jpmorgan.model.Stock;
 
 public class TradeTest {
 	
-	UtilTest utilTest = new UtilTest();
+	private UtilTest utilTest = new UtilTest();
 	
 	@Test(expected=BusinessException.class)
 	public void testBuyOperationWithInvalidStock(){

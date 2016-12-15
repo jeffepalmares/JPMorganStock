@@ -949,3 +949,1097 @@
 2016-12-15 17:29:25 INFO  StandAloneApp:48 - The GBCE Price is 2.9017918599757272E-30
 2016-12-15 17:29:25 INFO  RestApplication:32 - Starting Rest Api Application
 2016-12-15 17:29:31 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:12:12 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:12:12 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:12:12 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:12:12 INFO  StandAloneApp:42 - The Dividend Yield is 4822.338910624365
+2016-12-15 19:12:12 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:12:12 INFO  StandAloneApp:43 - The P/E Ratio is 4822.338910624365
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:12:12 INFO  StockController:43 - Called buy method.
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:12:12 INFO  StockController:62 - Called sell method.
+2016-12-15 19:12:12 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:12:12 INFO  StandAloneApp:42 - The Dividend Yield is 417.8765480547756
+2016-12-15 19:12:12 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:12:12 INFO  StandAloneApp:43 - The P/E Ratio is 417.8765480547756
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:12:12 INFO  StockController:43 - Called buy method.
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:12:12 INFO  StockController:62 - Called sell method.
+2016-12-15 19:12:12 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:12:12 INFO  StandAloneApp:42 - The Dividend Yield is 72.5574933347383
+2016-12-15 19:12:12 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:12:12 INFO  StandAloneApp:43 - The P/E Ratio is 72.5574933347383
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:12:12 INFO  StockController:43 - Called buy method.
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:12:12 INFO  StockController:62 - Called sell method.
+2016-12-15 19:12:12 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:12:12 INFO  StandAloneApp:42 - The Dividend Yield is 27.795336130655745
+2016-12-15 19:12:12 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:12:12 INFO  StandAloneApp:43 - The P/E Ratio is 27.795336130655745
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:12:12 INFO  StockController:43 - Called buy method.
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:12:12 INFO  StockController:62 - Called sell method.
+2016-12-15 19:12:12 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:12:12 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:12:12 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:12:12 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:12:12 INFO  StockController:43 - Called buy method.
+2016-12-15 19:12:12 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:12:12 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:12:12 INFO  StockController:62 - Called sell method.
+2016-12-15 19:12:12 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:12:12 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is 2.8927957450935167
+2016-12-15 19:12:12 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:12:12 INFO  StandAloneApp:48 - The GBCE Price is 4.6230919492184765E-110
+2016-12-15 19:12:12 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:12:19 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:13:28 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:13:28 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:13:28 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:13:28 INFO  StandAloneApp:42 - The Dividend Yield is 46.39187347401793
+2016-12-15 19:13:28 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:13:28 INFO  StandAloneApp:43 - The P/E Ratio is 46.39187347401793
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:13:28 INFO  StockController:43 - Called buy method.
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:13:28 INFO  StockController:62 - Called sell method.
+2016-12-15 19:13:28 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:13:28 INFO  StandAloneApp:42 - The Dividend Yield is 289.4797868470316
+2016-12-15 19:13:28 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:13:28 INFO  StandAloneApp:43 - The P/E Ratio is 289.4797868470316
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:13:28 INFO  StockController:43 - Called buy method.
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:13:28 INFO  StockController:62 - Called sell method.
+2016-12-15 19:13:28 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:13:28 INFO  StandAloneApp:42 - The Dividend Yield is 241.7545412385533
+2016-12-15 19:13:28 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:13:28 INFO  StandAloneApp:43 - The P/E Ratio is 241.7545412385533
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:13:28 INFO  StockController:43 - Called buy method.
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:13:28 INFO  StockController:62 - Called sell method.
+2016-12-15 19:13:28 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:13:28 INFO  StandAloneApp:42 - The Dividend Yield is 57.797507578780966
+2016-12-15 19:13:28 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:13:28 INFO  StandAloneApp:43 - The P/E Ratio is 57.797507578780966
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:13:28 INFO  StockController:43 - Called buy method.
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:13:28 INFO  StockController:62 - Called sell method.
+2016-12-15 19:13:28 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:13:28 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:13:28 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:13:28 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:13:28 INFO  StockController:43 - Called buy method.
+2016-12-15 19:13:28 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:13:28 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:13:28 INFO  StockController:62 - Called sell method.
+2016-12-15 19:13:28 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:13:28 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is 14.293077667552621
+2016-12-15 19:13:28 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:13:28 INFO  StandAloneApp:48 - The GBCE Price is 9.048306339011101E-68
+2016-12-15 19:13:28 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:13:33 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:14:43 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:14:43 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:14:43 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:14:43 INFO  StandAloneApp:42 - The Dividend Yield is 27.354518820977088
+2016-12-15 19:14:43 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:14:43 INFO  StandAloneApp:43 - The P/E Ratio is 27.354518820977088
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:14:43 INFO  StockController:43 - Called buy method.
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:14:43 INFO  StockController:62 - Called sell method.
+2016-12-15 19:14:43 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:14:43 INFO  StandAloneApp:42 - The Dividend Yield is 276.86449042239894
+2016-12-15 19:14:43 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:14:43 INFO  StandAloneApp:43 - The P/E Ratio is 276.86449042239894
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:14:43 INFO  StockController:43 - Called buy method.
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:14:43 INFO  StockController:62 - Called sell method.
+2016-12-15 19:14:43 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:14:43 INFO  StandAloneApp:42 - The Dividend Yield is 52.580734195124904
+2016-12-15 19:14:43 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:14:43 INFO  StandAloneApp:43 - The P/E Ratio is 52.580734195124904
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:14:43 INFO  StockController:43 - Called buy method.
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:14:43 INFO  StockController:62 - Called sell method.
+2016-12-15 19:14:43 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:14:43 INFO  StandAloneApp:42 - The Dividend Yield is 21.8459886707215
+2016-12-15 19:14:43 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:14:43 INFO  StandAloneApp:43 - The P/E Ratio is 21.8459886707215
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:14:43 INFO  StockController:43 - Called buy method.
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:14:43 INFO  StockController:62 - Called sell method.
+2016-12-15 19:14:43 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:14:43 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:14:43 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:14:43 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:14:43 INFO  StockController:43 - Called buy method.
+2016-12-15 19:14:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:14:43 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:14:43 INFO  StockController:62 - Called sell method.
+2016-12-15 19:14:43 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:14:43 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is -324.13520505602787
+2016-12-15 19:14:43 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:14:43 INFO  StandAloneApp:48 - The GBCE Price is 1.1814917125585715E-32
+2016-12-15 19:14:43 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:14:48 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:25:57 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:25:57 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:25:57 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:25:57 INFO  StandAloneApp:42 - The Dividend Yield is 59.8490060729791
+2016-12-15 19:25:57 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:25:57 INFO  StandAloneApp:43 - The P/E Ratio is 59.8490060729791
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:25:57 INFO  StockController:43 - Called buy method.
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:25:57 INFO  StockController:62 - Called sell method.
+2016-12-15 19:25:57 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:25:57 INFO  StandAloneApp:42 - The Dividend Yield is 363.05092208962367
+2016-12-15 19:25:57 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:25:57 INFO  StandAloneApp:43 - The P/E Ratio is 363.05092208962367
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:25:57 INFO  StockController:43 - Called buy method.
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:25:57 INFO  StockController:62 - Called sell method.
+2016-12-15 19:25:57 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:25:57 INFO  StandAloneApp:42 - The Dividend Yield is 16.662061546894442
+2016-12-15 19:25:57 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:25:57 INFO  StandAloneApp:43 - The P/E Ratio is 16.662061546894442
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:25:57 INFO  StockController:43 - Called buy method.
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:25:57 INFO  StockController:62 - Called sell method.
+2016-12-15 19:25:57 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:25:57 INFO  StandAloneApp:42 - The Dividend Yield is 17.538928434507664
+2016-12-15 19:25:57 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:25:57 INFO  StandAloneApp:43 - The P/E Ratio is 17.538928434507664
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:25:57 INFO  StockController:43 - Called buy method.
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:25:57 INFO  StockController:62 - Called sell method.
+2016-12-15 19:25:57 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:25:57 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:25:57 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:25:57 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:25:57 INFO  StockController:43 - Called buy method.
+2016-12-15 19:25:57 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:25:57 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:25:57 INFO  StockController:62 - Called sell method.
+2016-12-15 19:25:57 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:25:57 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is 2.7935511904926615
+2016-12-15 19:25:57 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:25:57 INFO  StandAloneApp:48 - The GBCE Price is 6.860654559932675E-32
+2016-12-15 19:25:57 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:26:02 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:27:39 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:27:39 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:27:39 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:27:39 INFO  StandAloneApp:42 - The Dividend Yield is 31.654366586025322
+2016-12-15 19:27:39 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:27:39 INFO  StandAloneApp:43 - The P/E Ratio is 31.654366586025322
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:27:39 INFO  StockController:43 - Called buy method.
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:27:39 INFO  StockController:62 - Called sell method.
+2016-12-15 19:27:39 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:27:39 INFO  StandAloneApp:42 - The Dividend Yield is 222.74066141500322
+2016-12-15 19:27:39 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:27:39 INFO  StandAloneApp:43 - The P/E Ratio is 222.74066141500322
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:27:39 INFO  StockController:43 - Called buy method.
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:27:39 INFO  StockController:62 - Called sell method.
+2016-12-15 19:27:39 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:27:39 INFO  StandAloneApp:42 - The Dividend Yield is 16.38887229344078
+2016-12-15 19:27:39 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:27:39 INFO  StandAloneApp:43 - The P/E Ratio is 16.38887229344078
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:27:39 INFO  StockController:43 - Called buy method.
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:27:39 INFO  StockController:62 - Called sell method.
+2016-12-15 19:27:39 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:27:39 INFO  StandAloneApp:42 - The Dividend Yield is 16.301439005717008
+2016-12-15 19:27:39 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:27:39 INFO  StandAloneApp:43 - The P/E Ratio is 16.301439005717008
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:27:39 INFO  StockController:43 - Called buy method.
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:27:39 INFO  StockController:62 - Called sell method.
+2016-12-15 19:27:39 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:27:39 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:27:39 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:27:39 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:27:39 INFO  StockController:43 - Called buy method.
+2016-12-15 19:27:39 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:27:39 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:27:39 INFO  StockController:62 - Called sell method.
+2016-12-15 19:27:39 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:27:39 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is -23.975002405648247
+2016-12-15 19:27:39 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:27:39 INFO  StandAloneApp:48 - The GBCE Price is 3.636005852709999E-24
+2016-12-15 19:27:39 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:27:43 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:28:38 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:28:38 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:28:43 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:43 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:28:45 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:45 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:28:47 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:47 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:28:47 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:47 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:28:47 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:47 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:28:51 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:28:51 INFO  StandAloneApp:42 - The Dividend Yield is 72.69132210923426
+2016-12-15 19:28:51 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:28:51 INFO  StandAloneApp:43 - The P/E Ratio is 72.69132210923426
+2016-12-15 19:28:51 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:51 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:28:51 INFO  StockController:43 - Called buy method.
+2016-12-15 19:28:51 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:51 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:28:51 INFO  StockController:62 - Called sell method.
+2016-12-15 19:28:51 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:28:51 INFO  StandAloneApp:42 - The Dividend Yield is 390.96338025673623
+2016-12-15 19:28:51 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:28:51 INFO  StandAloneApp:43 - The P/E Ratio is 390.96338025673623
+2016-12-15 19:28:51 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:51 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:28:51 INFO  StockController:43 - Called buy method.
+2016-12-15 19:28:51 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:51 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:28:51 INFO  StockController:62 - Called sell method.
+2016-12-15 19:28:51 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:28:51 INFO  StandAloneApp:42 - The Dividend Yield is 170.93930560527508
+2016-12-15 19:28:51 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:28:51 INFO  StandAloneApp:43 - The P/E Ratio is 170.93930560527508
+2016-12-15 19:28:51 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:51 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:28:51 INFO  StockController:43 - Called buy method.
+2016-12-15 19:28:51 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:51 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:28:51 INFO  StockController:62 - Called sell method.
+2016-12-15 19:28:51 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:28:51 INFO  StandAloneApp:42 - The Dividend Yield is 61.100576316226785
+2016-12-15 19:28:51 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:28:51 INFO  StandAloneApp:43 - The P/E Ratio is 61.100576316226785
+2016-12-15 19:28:51 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:51 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:28:51 INFO  StockController:43 - Called buy method.
+2016-12-15 19:28:51 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:51 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:28:51 INFO  StockController:62 - Called sell method.
+2016-12-15 19:28:51 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:28:51 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:28:51 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:28:51 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:28:51 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:51 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:28:51 INFO  StockController:43 - Called buy method.
+2016-12-15 19:28:51 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:28:51 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:28:51 INFO  StockController:62 - Called sell method.
+2016-12-15 19:28:51 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:28:51 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is -3.0973861282588557
+2016-12-15 19:28:51 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:28:51 INFO  StandAloneApp:48 - The GBCE Price is 1.3508938990655869E-62
+2016-12-15 19:28:51 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:28:57 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:29:50 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:29:50 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:29:54 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:29:54 INFO  StandAloneApp:42 - The Dividend Yield is 153.14376346774557
+2016-12-15 19:29:54 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:29:54 INFO  StandAloneApp:43 - The P/E Ratio is 153.14376346774557
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:29:54 INFO  StockController:43 - Called buy method.
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:29:54 INFO  StockController:62 - Called sell method.
+2016-12-15 19:29:54 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:29:54 INFO  StandAloneApp:42 - The Dividend Yield is 732.2927381724421
+2016-12-15 19:29:54 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:29:54 INFO  StandAloneApp:43 - The P/E Ratio is 732.2927381724421
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:29:54 INFO  StockController:43 - Called buy method.
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:29:54 INFO  StockController:62 - Called sell method.
+2016-12-15 19:29:54 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:29:54 INFO  StandAloneApp:42 - The Dividend Yield is 19.88243758266804
+2016-12-15 19:29:54 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:29:54 INFO  StandAloneApp:43 - The P/E Ratio is 19.88243758266804
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:29:54 INFO  StockController:43 - Called buy method.
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:29:54 INFO  StockController:62 - Called sell method.
+2016-12-15 19:29:54 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:29:54 INFO  StandAloneApp:42 - The Dividend Yield is 12.334916702632098
+2016-12-15 19:29:54 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:29:54 INFO  StandAloneApp:43 - The P/E Ratio is 12.334916702632098
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:29:54 INFO  StockController:43 - Called buy method.
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:29:54 INFO  StockController:62 - Called sell method.
+2016-12-15 19:29:54 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:29:54 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:29:54 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:29:54 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:29:54 INFO  StockController:43 - Called buy method.
+2016-12-15 19:29:54 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:29:54 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:29:54 INFO  StockController:62 - Called sell method.
+2016-12-15 19:29:54 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:29:54 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is -45.09855371020317
+2016-12-15 19:29:54 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:29:54 INFO  StandAloneApp:48 - The GBCE Price is 6.729200097774614E-55
+2016-12-15 19:29:54 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:30:00 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:35:23 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:35:23 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:35:23 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:35:23 INFO  StandAloneApp:42 - The Dividend Yield is 878.9591001119331
+2016-12-15 19:35:23 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:35:23 INFO  StandAloneApp:43 - The P/E Ratio is 878.9591001119331
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:35:23 INFO  StockController:43 - Called buy method.
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:35:23 INFO  StockController:62 - Called sell method.
+2016-12-15 19:35:23 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:35:23 INFO  StandAloneApp:42 - The Dividend Yield is 423.17732335497726
+2016-12-15 19:35:23 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:35:23 INFO  StandAloneApp:43 - The P/E Ratio is 423.17732335497726
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:35:23 INFO  StockController:43 - Called buy method.
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:35:23 INFO  StockController:62 - Called sell method.
+2016-12-15 19:35:23 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:35:23 INFO  StandAloneApp:42 - The Dividend Yield is 29.76876488312108
+2016-12-15 19:35:23 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:35:23 INFO  StandAloneApp:43 - The P/E Ratio is 29.76876488312108
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:35:23 INFO  StockController:43 - Called buy method.
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:35:23 INFO  StockController:62 - Called sell method.
+2016-12-15 19:35:23 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:35:23 INFO  StandAloneApp:42 - The Dividend Yield is 16.986139093913657
+2016-12-15 19:35:23 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:35:23 INFO  StandAloneApp:43 - The P/E Ratio is 16.986139093913657
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:35:23 INFO  StockController:43 - Called buy method.
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:35:23 INFO  StockController:62 - Called sell method.
+2016-12-15 19:35:23 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:35:23 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:35:23 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:35:23 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:35:23 INFO  StockController:43 - Called buy method.
+2016-12-15 19:35:23 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:35:23 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:35:23 INFO  StockController:62 - Called sell method.
+2016-12-15 19:35:23 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:35:23 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is -3.297251222085691
+2016-12-15 19:35:23 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:35:23 INFO  StandAloneApp:48 - The GBCE Price is 9.951409821515648E-57
+2016-12-15 19:35:23 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:35:28 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:39:09 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:39:09 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:39:09 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:39:09 INFO  StandAloneApp:42 - The Dividend Yield is 25.30843552983377
+2016-12-15 19:39:09 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:39:09 INFO  StandAloneApp:43 - The P/E Ratio is 25.30843552983377
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:39:09 INFO  StockController:43 - Called buy method.
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:39:09 INFO  StockController:62 - Called sell method.
+2016-12-15 19:39:09 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:39:09 INFO  StandAloneApp:42 - The Dividend Yield is 549.4794167464387
+2016-12-15 19:39:09 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:39:09 INFO  StandAloneApp:43 - The P/E Ratio is 549.4794167464387
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:39:09 INFO  StockController:43 - Called buy method.
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:39:09 INFO  StockController:62 - Called sell method.
+2016-12-15 19:39:09 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:39:09 INFO  StandAloneApp:42 - The Dividend Yield is 39.23056204198203
+2016-12-15 19:39:09 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:39:09 INFO  StandAloneApp:43 - The P/E Ratio is 39.23056204198203
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:39:09 INFO  StockController:43 - Called buy method.
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:39:09 INFO  StockController:62 - Called sell method.
+2016-12-15 19:39:09 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:39:09 INFO  StandAloneApp:42 - The Dividend Yield is 12.481914173324142
+2016-12-15 19:39:09 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:39:09 INFO  StandAloneApp:43 - The P/E Ratio is 12.481914173324142
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:39:09 INFO  StockController:43 - Called buy method.
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:39:09 INFO  StockController:62 - Called sell method.
+2016-12-15 19:39:09 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:39:09 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:39:09 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:39:09 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:39:09 INFO  StockController:43 - Called buy method.
+2016-12-15 19:39:09 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:39:09 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:39:09 INFO  StockController:62 - Called sell method.
+2016-12-15 19:39:09 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:39:10 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is -88.03727667188592
+2016-12-15 19:39:10 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:39:10 INFO  StandAloneApp:48 - The GBCE Price is 2.080563713714497E-42
+2016-12-15 19:39:10 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:40:01 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:40:01 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:40:01 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:01 INFO  StandAloneApp:42 - The Dividend Yield is 37.9505306088101
+2016-12-15 19:40:01 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:01 INFO  StandAloneApp:43 - The P/E Ratio is 37.9505306088101
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:01 INFO  StockController:43 - Called buy method.
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:01 INFO  StockController:62 - Called sell method.
+2016-12-15 19:40:01 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:01 INFO  StandAloneApp:42 - The Dividend Yield is 975.6588349638034
+2016-12-15 19:40:01 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:01 INFO  StandAloneApp:43 - The P/E Ratio is 975.6588349638034
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:01 INFO  StockController:43 - Called buy method.
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:01 INFO  StockController:62 - Called sell method.
+2016-12-15 19:40:01 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:01 INFO  StandAloneApp:42 - The Dividend Yield is 14.167091381040294
+2016-12-15 19:40:01 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:01 INFO  StandAloneApp:43 - The P/E Ratio is 14.167091381040294
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:01 INFO  StockController:43 - Called buy method.
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:01 INFO  StockController:62 - Called sell method.
+2016-12-15 19:40:01 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:01 INFO  StandAloneApp:42 - The Dividend Yield is 11.598764811473648
+2016-12-15 19:40:01 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:01 INFO  StandAloneApp:43 - The P/E Ratio is 11.598764811473648
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:01 INFO  StockController:43 - Called buy method.
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:01 INFO  StockController:62 - Called sell method.
+2016-12-15 19:40:01 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:01 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:40:01 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:01 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:01 INFO  StockController:43 - Called buy method.
+2016-12-15 19:40:01 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:01 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:01 INFO  StockController:62 - Called sell method.
+2016-12-15 19:40:01 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:40:02 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is -2.3939912233043943
+2016-12-15 19:40:02 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:40:02 INFO  StandAloneApp:48 - The GBCE Price is 3.651128050137334E-28
+2016-12-15 19:40:02 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:40:06 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:40:09 WARN  ExceptionHandlerRestApi:17 - Price value not valid!
+2016-12-15 19:40:16 WARN  ExceptionHandlerRestApi:17 -  Stock Symbol invalid, please check! 
+2016-12-15 19:40:23 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:40:23 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:40:27 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:27 INFO  StandAloneApp:42 - The Dividend Yield is 79.01378537652334
+2016-12-15 19:40:27 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:27 INFO  StandAloneApp:43 - The P/E Ratio is 79.01378537652334
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:27 INFO  StockController:43 - Called buy method.
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:27 INFO  StockController:62 - Called sell method.
+2016-12-15 19:40:27 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:27 INFO  StandAloneApp:42 - The Dividend Yield is 1266.0413816828543
+2016-12-15 19:40:27 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:27 INFO  StandAloneApp:43 - The P/E Ratio is 1266.0413816828543
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:27 INFO  StockController:43 - Called buy method.
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:27 INFO  StockController:62 - Called sell method.
+2016-12-15 19:40:27 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:27 INFO  StandAloneApp:42 - The Dividend Yield is 14.61371191020962
+2016-12-15 19:40:27 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:27 INFO  StandAloneApp:43 - The P/E Ratio is 14.61371191020962
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:27 INFO  StockController:43 - Called buy method.
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:27 INFO  StockController:62 - Called sell method.
+2016-12-15 19:40:27 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:27 INFO  StandAloneApp:42 - The Dividend Yield is 8.522796044084542
+2016-12-15 19:40:27 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:27 INFO  StandAloneApp:43 - The P/E Ratio is 8.522796044084542
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:27 INFO  StockController:43 - Called buy method.
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:27 INFO  StockController:62 - Called sell method.
+2016-12-15 19:40:27 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:27 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:40:27 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:40:27 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:27 INFO  StockController:43 - Called buy method.
+2016-12-15 19:40:27 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:40:27 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:40:27 INFO  StockController:62 - Called sell method.
+2016-12-15 19:40:27 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:40:27 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is -7.242724637504072
+2016-12-15 19:40:27 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:40:27 INFO  StandAloneApp:48 - The GBCE Price is 4.059255062667693E-51
+2016-12-15 19:40:27 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:40:33 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:40:52 WARN  ExceptionHandlerRestApi:17 -  Stock Symbol invalid, please check! 
+2016-12-15 19:44:17 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:44:17 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:44:17 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:44:17 INFO  StandAloneApp:42 - The Dividend Yield is 93.72967072114407
+2016-12-15 19:44:17 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:44:17 INFO  StandAloneApp:43 - The P/E Ratio is 93.72967072114407
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:44:17 INFO  StockController:43 - Called buy method.
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:44:17 INFO  StockController:62 - Called sell method.
+2016-12-15 19:44:17 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:44:17 INFO  StandAloneApp:42 - The Dividend Yield is 259.61771598484705
+2016-12-15 19:44:17 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:44:17 INFO  StandAloneApp:43 - The P/E Ratio is 259.61771598484705
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:44:17 INFO  StockController:43 - Called buy method.
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:44:17 INFO  StockController:62 - Called sell method.
+2016-12-15 19:44:17 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:44:17 INFO  StandAloneApp:42 - The Dividend Yield is 62.27991998645592
+2016-12-15 19:44:17 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:44:17 INFO  StandAloneApp:43 - The P/E Ratio is 62.27991998645592
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:44:17 INFO  StockController:43 - Called buy method.
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:44:17 INFO  StockController:62 - Called sell method.
+2016-12-15 19:44:17 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:44:17 INFO  StandAloneApp:42 - The Dividend Yield is 77.64349395457711
+2016-12-15 19:44:17 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:44:17 INFO  StandAloneApp:43 - The P/E Ratio is 77.64349395457711
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:44:17 INFO  StockController:43 - Called buy method.
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:44:17 INFO  StockController:62 - Called sell method.
+2016-12-15 19:44:17 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:44:17 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:44:17 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:44:17 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:44:17 INFO  StockController:43 - Called buy method.
+2016-12-15 19:44:17 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:44:17 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:44:17 INFO  StockController:62 - Called sell method.
+2016-12-15 19:44:17 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:44:17 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is 3.1088643150285216
+2016-12-15 19:44:17 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:44:17 INFO  StandAloneApp:48 - The GBCE Price is 1.0535359508852857E-69
+2016-12-15 19:44:17 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:44:22 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:44:34 WARN  ExceptionHandlerRestApi:17 -  Stock Symbol invalid, please check! 
+2016-12-15 19:45:13 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:45:13 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:45:13 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:13 INFO  StandAloneApp:42 - The Dividend Yield is 67.76469868058173
+2016-12-15 19:45:13 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:13 INFO  StandAloneApp:43 - The P/E Ratio is 67.76469868058173
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:13 INFO  StockController:43 - Called buy method.
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:13 INFO  StockController:62 - Called sell method.
+2016-12-15 19:45:13 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:13 INFO  StandAloneApp:42 - The Dividend Yield is 289.7047525318082
+2016-12-15 19:45:13 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:13 INFO  StandAloneApp:43 - The P/E Ratio is 289.7047525318082
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:13 INFO  StockController:43 - Called buy method.
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:13 INFO  StockController:62 - Called sell method.
+2016-12-15 19:45:13 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:13 INFO  StandAloneApp:42 - The Dividend Yield is 133.04944404507316
+2016-12-15 19:45:13 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:13 INFO  StandAloneApp:43 - The P/E Ratio is 133.04944404507316
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:13 INFO  StockController:43 - Called buy method.
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:13 INFO  StockController:62 - Called sell method.
+2016-12-15 19:45:13 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:13 INFO  StandAloneApp:42 - The Dividend Yield is 10.490733402479222
+2016-12-15 19:45:13 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:13 INFO  StandAloneApp:43 - The P/E Ratio is 10.490733402479222
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:13 INFO  StockController:43 - Called buy method.
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:13 INFO  StockController:62 - Called sell method.
+2016-12-15 19:45:13 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:13 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:45:13 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:13 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:13 INFO  StockController:43 - Called buy method.
+2016-12-15 19:45:13 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:13 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:13 INFO  StockController:62 - Called sell method.
+2016-12-15 19:45:13 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:45:13 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is -10.860608123303912
+2016-12-15 19:45:13 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:45:13 INFO  StandAloneApp:48 - The GBCE Price is 1.0853527639476722E-54
+2016-12-15 19:45:13 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:45:24 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:45:24 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:45:24 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:24 INFO  StandAloneApp:42 - The Dividend Yield is 98.64512205360394
+2016-12-15 19:45:24 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:24 INFO  StandAloneApp:43 - The P/E Ratio is 98.64512205360394
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:24 INFO  StockController:43 - Called buy method.
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:24 INFO  StockController:62 - Called sell method.
+2016-12-15 19:45:24 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:24 INFO  StandAloneApp:42 - The Dividend Yield is 388.0290842129578
+2016-12-15 19:45:24 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:24 INFO  StandAloneApp:43 - The P/E Ratio is 388.0290842129578
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:24 INFO  StockController:43 - Called buy method.
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:24 INFO  StockController:62 - Called sell method.
+2016-12-15 19:45:24 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:24 INFO  StandAloneApp:42 - The Dividend Yield is 233.77568541343928
+2016-12-15 19:45:24 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:24 INFO  StandAloneApp:43 - The P/E Ratio is 233.77568541343928
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:24 INFO  StockController:43 - Called buy method.
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:24 INFO  StockController:62 - Called sell method.
+2016-12-15 19:45:24 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:24 INFO  StandAloneApp:42 - The Dividend Yield is 8.543563489483043
+2016-12-15 19:45:24 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:24 INFO  StandAloneApp:43 - The P/E Ratio is 8.543563489483043
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:24 INFO  StockController:43 - Called buy method.
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:24 INFO  StockController:62 - Called sell method.
+2016-12-15 19:45:24 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:24 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:45:24 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:45:24 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:24 INFO  StockController:43 - Called buy method.
+2016-12-15 19:45:24 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:45:24 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:45:24 INFO  StockController:62 - Called sell method.
+2016-12-15 19:45:24 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:45:24 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is 6.005161785222312
+2016-12-15 19:45:24 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:45:24 INFO  StandAloneApp:48 - The GBCE Price is 7.964501319263137E-48
+2016-12-15 19:45:24 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:45:28 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:45:36 WARN  ExceptionHandlerRestApi:17 -  Stock Symbol invalid, please check! 
+2016-12-15 19:45:54 WARN  ExceptionHandlerRestApi:17 - Price value not valid!
+2016-12-15 19:46:00 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:18 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:46:18 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:46:21 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:21 INFO  StandAloneApp:42 - The Dividend Yield is 467.0162130569218
+2016-12-15 19:46:21 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:21 INFO  StandAloneApp:43 - The P/E Ratio is 467.0162130569218
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:21 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:21 INFO  StockController:62 - Called sell method.
+2016-12-15 19:46:21 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:21 INFO  StandAloneApp:42 - The Dividend Yield is 705.7455923885284
+2016-12-15 19:46:21 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:21 INFO  StandAloneApp:43 - The P/E Ratio is 705.7455923885284
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:21 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:21 INFO  StockController:62 - Called sell method.
+2016-12-15 19:46:21 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:21 INFO  StandAloneApp:42 - The Dividend Yield is 43.9695708274128
+2016-12-15 19:46:21 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:21 INFO  StandAloneApp:43 - The P/E Ratio is 43.9695708274128
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:21 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:21 INFO  StockController:62 - Called sell method.
+2016-12-15 19:46:21 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:21 INFO  StandAloneApp:42 - The Dividend Yield is 25.986131767476465
+2016-12-15 19:46:21 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:21 INFO  StandAloneApp:43 - The P/E Ratio is 25.986131767476465
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:21 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:21 INFO  StockController:62 - Called sell method.
+2016-12-15 19:46:21 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:21 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:46:21 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:21 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:21 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:21 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:21 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:21 INFO  StockController:62 - Called sell method.
+2016-12-15 19:46:21 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:46:21 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is -5.373000224949498
+2016-12-15 19:46:21 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:46:21 INFO  StandAloneApp:48 - The GBCE Price is 2.966273676962946E-74
+2016-12-15 19:46:21 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:46:26 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:36 INFO  RestApplication:26 - Starting Application...
+2016-12-15 19:46:36 INFO  RestApplication:28 - Running standAlone Application...
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StockController:27 - Called createStock method.
+2016-12-15 19:46:38 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:38 INFO  StandAloneApp:42 - The Dividend Yield is 138.97534764523016
+2016-12-15 19:46:38 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:38 INFO  StandAloneApp:43 - The P/E Ratio is 138.97534764523016
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:38 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:38 INFO  StockController:62 - Called sell method.
+2016-12-15 19:46:38 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:38 INFO  StandAloneApp:42 - The Dividend Yield is 504.3342002785834
+2016-12-15 19:46:38 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:38 INFO  StandAloneApp:43 - The P/E Ratio is 504.3342002785834
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:38 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:38 INFO  StockController:62 - Called sell method.
+2016-12-15 19:46:38 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:38 INFO  StandAloneApp:42 - The Dividend Yield is 34.97011332786839
+2016-12-15 19:46:38 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:38 INFO  StandAloneApp:43 - The P/E Ratio is 34.97011332786839
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:38 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:38 INFO  StockController:62 - Called sell method.
+2016-12-15 19:46:38 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:38 INFO  StandAloneApp:42 - The Dividend Yield is 35.447912756375075
+2016-12-15 19:46:38 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:38 INFO  StandAloneApp:43 - The P/E Ratio is 35.447912756375075
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:38 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:38 INFO  StockController:62 - Called sell method.
+2016-12-15 19:46:38 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:38 INFO  StandAloneApp:42 - The Dividend Yield is 0.0
+2016-12-15 19:46:38 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 19:46:38 INFO  StandAloneApp:43 - The P/E Ratio is 0.0
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:38 INFO  StockController:43 - Called buy method.
+2016-12-15 19:46:38 INFO  StandAloneApp:54 - Generating random price
+2016-12-15 19:46:38 INFO  StandAloneApp:58 - Generating random Quantity
+2016-12-15 19:46:38 INFO  StockController:62 - Called sell method.
+2016-12-15 19:46:38 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 19:46:39 INFO  StandAloneApp:47 - The Volume Weighted Stock Price is 7.1692595072699685
+2016-12-15 19:46:39 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 19:46:39 INFO  StandAloneApp:48 - The GBCE Price is 4.3391645020340464E-49
+2016-12-15 19:46:39 INFO  RestApplication:32 - Starting Rest Api Application
+2016-12-15 19:46:45 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
+2016-12-15 19:46:50 INFO  StockController:43 - Called buy method.

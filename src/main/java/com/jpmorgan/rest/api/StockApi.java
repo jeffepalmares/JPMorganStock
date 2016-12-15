@@ -1,11 +1,13 @@
 package com.jpmorgan.rest.api;
 
+import org.apache.log4j.Logger;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.jpmorgan.controller.StockController;
+import com.jpmorgan.exception.BusinessException;
 import com.jpmorgan.factory.StockFactory;
 import com.jpmorgan.model.StockSymbol;
 
@@ -16,6 +18,8 @@ import io.swagger.annotations.ApiOperation;
 @RestController
 public class StockApi {
 
+	private final static Logger logger = Logger.getLogger( StockApi.class );
+	
 	private StockController stockController = new StockController();
 	
 	@RequestMapping( value = "/stockApi/Stock/DividendYield" , method = RequestMethod.GET )
@@ -38,7 +42,9 @@ public class StockApi {
 			
 		}catch ( IllegalArgumentException e ) {
 			
-			return " Stock Symbol invalid, please check! ";
+			logger.error(e.getMessage());
+			
+			throw new BusinessException (" Stock Symbol invalid, please check! ");
 			
 		}
 		
@@ -64,7 +70,8 @@ public class StockApi {
 			
 		}catch ( IllegalArgumentException e ) {
 			
-			return " Stock Symbol invalid, please check! ";
+			
+			throw new BusinessException (" Stock Symbol invalid, please check! ");
 			
 		}
 		

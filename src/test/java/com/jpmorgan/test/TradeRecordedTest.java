@@ -2,6 +2,7 @@ package com.jpmorgan.test;
 
 import static org.junit.Assert.assertNotNull;
 
+import org.apache.log4j.Logger;
 import org.junit.Test;
 
 import com.jpmorgan.controller.StockController;
@@ -9,7 +10,9 @@ import com.jpmorgan.controller.TradeController;
 
 public class TradeRecordedTest {
 
-	UtilTest utilTest = new UtilTest();
+	private final static Logger logger = Logger.getLogger( TradeRecordedTest.class );
+	
+	private UtilTest utilTest = new UtilTest();
 
 	
 	@Test
@@ -21,7 +24,7 @@ public class TradeRecordedTest {
 		
 		Double value = stockController.calculateVolumeWeightedStockPrice();
 		
-		System.out.println( "Volume Weighted Stock Price value: " + value );
+		logger.info( "Volume Weighted Stock Price value: " + value );
 		
 		assertNotNull( value ); 
 	}
@@ -35,7 +38,7 @@ public class TradeRecordedTest {
 		
 		Double value = stockController.calculateGBCE();
 		
-		System.out.println( "GBCE value: " + value );
+		logger.info( "GBCE value: " + value );
 		
 		assertNotNull( value );
 	}

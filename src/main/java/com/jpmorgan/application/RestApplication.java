@@ -16,7 +16,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
 @EnableSwagger2
-@ComponentScan( basePackages = { "com.jpmorgan.rest.api" } ) 
+@ComponentScan( basePackages = { "com.jpmorgan.rest.api" , "com.jpmorgan.exception" } ) 
 public class RestApplication {
 	
 	private final static Logger logger = Logger.getLogger(RestApplication.class);
