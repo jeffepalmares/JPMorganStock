@@ -2043,3 +2043,4 @@
 2016-12-15 19:46:39 INFO  RestApplication:32 - Starting Rest Api Application
 2016-12-15 19:46:45 INFO  RestApplication:36 - Please access http://localhost:8080/swagger-ui.html
 2016-12-15 19:46:50 INFO  StockController:43 - Called buy method.
+2016-12-15 19:49:50 WARN  ExceptionHandlerRestApi:17 -  Stock Symbol invalid, please check! 
