@@ -20,23 +20,23 @@ public class StockFactory {
 		
 			case TEA:
 			
-				return createTea( symbol );
+				return createTea( symbol , price );
 
 			case POP:
 				
-				return createPop( symbol );
+				return createPop( symbol , price );
 			
 			case ALE:
 			
-				return createAle( symbol );
+				return createAle( symbol , price );
 			
 			case GIN:
 			
-				return createGin( symbol );
+				return createGin( symbol , price );
 			
 			case JOE:
 			
-				return createJoe( symbol );
+				return createJoe( symbol , price );
 			
 			default:
 			
@@ -44,7 +44,7 @@ public class StockFactory {
 		}
 	}
 	
-	private static Stock createTea( StockSymbol symbol ){
+	private static Stock createTea( StockSymbol symbol , Double price ){
 		
 		Stock stock = new Stock();
 		
@@ -55,13 +55,15 @@ public class StockFactory {
 		stock.setParValue( Constants.DefaultValue.HUNDRED );
 		
 		stock.setSymbol( symbol );
+
+		stock.setPrice( price );
 		
 		stock.setType( StockType.Common );
 		
 		return stock;
 	}
 	
-	private static Stock createPop( StockSymbol symbol ){
+	private static Stock createPop( StockSymbol symbol, Double price ){
 		
 		Stock stock = new Stock();
 		
@@ -73,12 +75,14 @@ public class StockFactory {
 		
 		stock.setSymbol( symbol );
 		
+		stock.setPrice( price );
+		
 		stock.setType( StockType.Common );
 		
 		return stock;
 		
 	}
-	private static Stock createAle( StockSymbol symbol ){
+	private static Stock createAle( StockSymbol symbol, Double price ){
 		
 		Stock stock = new Stock();
 		
@@ -90,12 +94,14 @@ public class StockFactory {
 		
 		stock.setSymbol( symbol );
 		
+		stock.setPrice( price );
+		
 		stock.setType( StockType.Common );
 		
 		return stock;
 		
 	}
-	private static Stock createGin( StockSymbol symbol ){
+	private static Stock createGin( StockSymbol symbol, Double price ){
 		
 		Stock stock = new Stock();
 		
@@ -107,11 +113,13 @@ public class StockFactory {
 		
 		stock.setSymbol( symbol );
 		
+		stock.setPrice( price );
+		
 		stock.setType( StockType.Preferred );
 		
 		return stock;
 	}
-	private static Stock createJoe( StockSymbol symbol ){
+	private static Stock createJoe( StockSymbol symbol, Double price ){
 		
 		Stock stock = new Stock();
 		
@@ -122,6 +130,8 @@ public class StockFactory {
 		stock.setParValue( Constants.DefaultValue.TWO_HUNDRED_FIFTY );
 		
 		stock.setSymbol( symbol );
+		
+		stock.setPrice( price );
 		
 		stock.setType( StockType.Common );
 		

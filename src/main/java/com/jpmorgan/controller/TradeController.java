@@ -21,34 +21,28 @@ public class TradeController {
 		
 	}
 	
-	private boolean isNotValidateInput( Stock stock,Double price, int quantity ){
+	private void validateInput( Stock stock,Double price, int quantity ){
 		
 		if( price == null || price < 0 || Validations.isNotValidObject( stock ) ){
 			
 			logger.warn("Price or Stock object not valid value, please check!");
 			
-			return Boolean.TRUE;
+			throw new BusinessException( "Price or Stock object not valid value, please check!" );
 			
 		}else if( quantity <= 0){
 			
 			logger.warn("Quantity can not be nagative or zero.");
 			
-			return Boolean.TRUE;
+			throw new BusinessException( "Quantity can not be nagative or zero!" );
 		}
 		
-
-		return Boolean.FALSE;
 	}
 	
 	public boolean buy(Stock stock,Double price, int quantity)throws BusinessException{
 		
 		logger.info( "Called buy method." );
 		
-		if( isNotValidateInput( stock, price, quantity ) ){
-		
-			return Boolean.FALSE;
-		
-		}
+		validateInput( stock, price, quantity );
 		
 		Trade trade = new Trade();
 		
@@ -64,13 +58,10 @@ public class TradeController {
 	}
 	
 	public boolean sell( Stock stock,Double price, int quantity ) throws BusinessException{
+		
 		logger.info( "Called sell method." );
 		
-		if( isNotValidateInput( stock, price, quantity ) ){
-			
-			return Boolean.FALSE;
-		
-		}
+		validateInput( stock, price, quantity );
 		
 		Trade trade = new Trade();
 		

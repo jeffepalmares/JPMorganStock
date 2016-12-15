@@ -1,63 +1,63 @@
 package com.jpmorgan.test;
 
-import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
 import com.jpmorgan.controller.TradeController;
+import com.jpmorgan.exception.BusinessException;
 import com.jpmorgan.model.Stock;
 
 public class TradeTest {
 	
 	UtilTest utilTest = new UtilTest();
 	
-	@Test
+	@Test(expected=BusinessException.class)
 	public void testBuyOperationWithInvalidStock(){
 		
 		TradeController tradeController = new TradeController();
 		
-		assertFalse( tradeController.buy( new Stock() , utilTest.getRadomPrice() , utilTest.getRadomQuantity() ) );
+		tradeController.buy( new Stock() , utilTest.getRadomPrice() , utilTest.getRadomQuantity() );
 	}
 
-	@Test
+	@Test(expected=BusinessException.class)
 	public void testBuyOperationWithInvalidPrice(){
 		
 		TradeController tradeController = new TradeController();
 		
-		assertFalse( tradeController.buy( utilTest.createStock() , -20.0 , utilTest.getRadomQuantity() ) );
+		tradeController.buy( utilTest.createStock() , -20.0 , utilTest.getRadomQuantity() );
 	}
 
-	@Test
+	@Test(expected=BusinessException.class)
 	public void testBuyOperationWithInvalidQuantanty(){
 		
 		TradeController tradeController = new TradeController();
 		
-		assertFalse( tradeController.buy( utilTest.createStock() , utilTest.getRadomPrice() , -2 ) );
+		tradeController.buy( utilTest.createStock() , utilTest.getRadomPrice() , -2 );
 	}
 
-	@Test
+	@Test(expected=BusinessException.class)
 	public void testSellOperationWithInvalidStock(){
 		
 		TradeController tradeController = new TradeController();
 		
-		assertFalse( tradeController.sell( new Stock() , utilTest.getRadomPrice() , utilTest.getRadomQuantity() ) );
+		tradeController.sell( new Stock() , utilTest.getRadomPrice() , utilTest.getRadomQuantity() );
 	}
 	
-	@Test
+	@Test(expected=BusinessException.class)
 	public void testSellOperationWithInvalidPrice(){
 		
 		TradeController tradeController = new TradeController();
 		
-		assertFalse( tradeController.sell( utilTest.createStock() , -20.0 , utilTest.getRadomQuantity() ) );
+		tradeController.sell( utilTest.createStock() , -20.0 , utilTest.getRadomQuantity() );
 	}
 	
-	@Test
+	@Test(expected=BusinessException.class)
 	public void testSellOperationWithInvalidQuantanty(){
 		
 		TradeController tradeController = new TradeController();
 		
-		assertFalse( tradeController.sell( utilTest.createStock() , utilTest.getRadomPrice() , -2 ) );
+		 tradeController.sell( utilTest.createStock() , utilTest.getRadomPrice() , -2 );
 	}
 
 	@Test

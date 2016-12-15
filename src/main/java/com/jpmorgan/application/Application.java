@@ -37,7 +37,7 @@ public class Application {
 	public static void main(String[] args){
 		
 		Application app = new Application();
-		
+
 		for(Stock stock : app.getStockList()){
 			logger.info("The Dividend Yield is " + app.getStockController().calculateDividendYield(stock));
 			logger.info("The P/E Ratio is " + app.getStockController().calculateDividendYield(stock));

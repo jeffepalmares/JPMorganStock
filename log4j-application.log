@@ -653,3 +653,166 @@
 2016-12-15 15:10:29 WARN  StockController:28 - Price or Stock object not valid value, please check!
 2016-12-15 15:10:29 INFO  StockController:27 - Called createStock method.
 2016-12-15 15:10:29 INFO  StockController:67 - Called sell method.
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  StockController:27 - Called createStock method.
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  StockController:27 - Called createStock method.
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  StockController:27 - Called createStock method.
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  StockController:27 - Called createStock method.
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  StockController:27 - Called createStock method.
+2016-12-15 16:10:36 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:10:36 INFO  Application:42 - The Dividend Yield is 24.853269586233345
+2016-12-15 16:10:36 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:10:36 INFO  Application:43 - The P/E Ratio is 24.853269586233345
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  Application:58 - Generating random Quantity
+2016-12-15 16:10:36 INFO  StockController:45 - Called buy method.
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  Application:58 - Generating random Quantity
+2016-12-15 16:10:36 INFO  StockController:67 - Called sell method.
+2016-12-15 16:10:36 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:10:36 INFO  Application:42 - The Dividend Yield is 5698334.30430086
+2016-12-15 16:10:36 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:10:36 INFO  Application:43 - The P/E Ratio is 5698334.30430086
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  Application:58 - Generating random Quantity
+2016-12-15 16:10:36 INFO  StockController:45 - Called buy method.
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  Application:58 - Generating random Quantity
+2016-12-15 16:10:36 INFO  StockController:67 - Called sell method.
+2016-12-15 16:10:36 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:10:36 INFO  Application:42 - The Dividend Yield is 19.94017091647359
+2016-12-15 16:10:36 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:10:36 INFO  Application:43 - The P/E Ratio is 19.94017091647359
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  Application:58 - Generating random Quantity
+2016-12-15 16:10:36 INFO  StockController:45 - Called buy method.
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  Application:58 - Generating random Quantity
+2016-12-15 16:10:36 INFO  StockController:67 - Called sell method.
+2016-12-15 16:10:36 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:10:36 INFO  Application:42 - The Dividend Yield is 8.068931782026942
+2016-12-15 16:10:36 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:10:36 INFO  Application:43 - The P/E Ratio is 8.068931782026942
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  Application:58 - Generating random Quantity
+2016-12-15 16:10:36 INFO  StockController:45 - Called buy method.
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  Application:58 - Generating random Quantity
+2016-12-15 16:10:36 INFO  StockController:67 - Called sell method.
+2016-12-15 16:10:36 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:10:36 INFO  Application:42 - The Dividend Yield is 0.0
+2016-12-15 16:10:36 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:10:36 INFO  Application:43 - The P/E Ratio is 0.0
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  Application:58 - Generating random Quantity
+2016-12-15 16:10:36 INFO  StockController:45 - Called buy method.
+2016-12-15 16:10:36 INFO  Application:54 - Generating random price
+2016-12-15 16:10:36 INFO  Application:58 - Generating random Quantity
+2016-12-15 16:10:36 INFO  StockController:67 - Called sell method.
+2016-12-15 16:10:36 INFO  StockController:76 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 16:10:36 INFO  Application:47 - The Volume Weighted Stock Price is 3.6067081153635154
+2016-12-15 16:10:36 INFO  StockController:84 - Called calculateGBCE method.
+2016-12-15 16:10:36 INFO  Application:48 - The GBCE Price is 2.5213967780359838E-104
+2016-12-15 16:11:15 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:11:15 INFO  StockController:51 - Stock Obect invalid, please check!.
+2016-12-15 16:12:20 INFO  StockController:47 - Called calculateDividendYield method.
+2016-12-15 16:12:20 INFO  StockController:51 - Stock Obect invalid, please check!.
+2016-12-15 16:17:07 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 16:17:14 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 16:19:27 INFO  StockController:59 - Called calculatePERatio method.
+2016-12-15 16:25:49 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 16:26:01 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 16:59:25 INFO  StockController:45 - Called buy method.
+2016-12-15 16:59:36 INFO  StockController:45 - Called buy method.
+2016-12-15 16:59:46 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 17:02:52 INFO  StockController:45 - Called buy method.
+2016-12-15 17:02:52 WARN  StockController:34 - Quantity can not be nagative or zero.
+2016-12-15 17:06:51 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:06:51 INFO  StockController:43 - Called buy method.
+2016-12-15 17:06:51 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:06:51 INFO  StockController:62 - Called sell method.
+2016-12-15 17:06:51 WARN  StockController:34 - Quantity can not be nagative or zero.
+2016-12-15 17:06:51 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:06:51 INFO  StockController:62 - Called sell method.
+2016-12-15 17:06:51 WARN  StockController:28 - Price or Stock object not valid value, please check!
+2016-12-15 17:06:51 INFO  StockController:62 - Called sell method.
+2016-12-15 17:06:51 WARN  StockController:28 - Price or Stock object not valid value, please check!
+2016-12-15 17:06:51 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:06:51 INFO  StockController:43 - Called buy method.
+2016-12-15 17:06:51 WARN  StockController:34 - Quantity can not be nagative or zero.
+2016-12-15 17:06:51 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:06:51 INFO  StockController:43 - Called buy method.
+2016-12-15 17:06:51 WARN  StockController:28 - Price or Stock object not valid value, please check!
+2016-12-15 17:06:51 INFO  StockController:43 - Called buy method.
+2016-12-15 17:06:51 WARN  StockController:28 - Price or Stock object not valid value, please check!
+2016-12-15 17:06:51 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:06:51 INFO  StockController:62 - Called sell method.
+2016-12-15 17:08:50 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:08:50 INFO  StockController:43 - Called buy method.
+2016-12-15 17:08:50 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:08:50 INFO  StockController:62 - Called sell method.
+2016-12-15 17:08:50 WARN  StockController:34 - Quantity can not be nagative or zero.
+2016-12-15 17:08:50 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:08:50 INFO  StockController:62 - Called sell method.
+2016-12-15 17:08:50 WARN  StockController:28 - Price or Stock object not valid value, please check!
+2016-12-15 17:08:50 INFO  StockController:62 - Called sell method.
+2016-12-15 17:08:50 WARN  StockController:28 - Price or Stock object not valid value, please check!
+2016-12-15 17:08:50 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:08:50 INFO  StockController:43 - Called buy method.
+2016-12-15 17:08:50 WARN  StockController:34 - Quantity can not be nagative or zero.
+2016-12-15 17:08:50 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:08:50 INFO  StockController:43 - Called buy method.
+2016-12-15 17:08:50 WARN  StockController:28 - Price or Stock object not valid value, please check!
+2016-12-15 17:08:50 INFO  StockController:43 - Called buy method.
+2016-12-15 17:08:50 WARN  StockController:28 - Price or Stock object not valid value, please check!
+2016-12-15 17:08:50 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:08:50 INFO  StockController:62 - Called sell method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:43 - Called buy method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:43 - Called buy method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:43 - Called buy method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:62 - Called sell method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:62 - Called sell method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:62 - Called sell method.
+2016-12-15 17:09:01 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:43 - Called buy method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:43 - Called buy method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:43 - Called buy method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:62 - Called sell method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:62 - Called sell method.
+2016-12-15 17:09:01 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:01 INFO  StockController:62 - Called sell method.
+2016-12-15 17:09:01 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 17:09:09 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:09 ERROR StockController:37 - Price value not valid!
+2016-12-15 17:09:09 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:09 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 17:09:10 INFO  StockController:59 - Called calculatePERatio method.
+2016-12-15 17:09:10 INFO  StockController:63 - Stock Obect invalid, please check!.
+2016-12-15 17:09:10 INFO  StockController:82 - Called calculateGBCE method.
+2016-12-15 17:09:10 INFO  StockController:27 - Called createStock method.
+2016-12-15 17:09:10 INFO  StockController:59 - Called calculatePERatio method.
+2016-12-15 17:09:10 INFO  StockController:45 - Called calculateDividendYield method.
+2016-12-15 17:09:10 INFO  StockController:49 - Stock Obect invalid, please check!.
+2016-12-15 17:09:10 INFO  StockController:74 - Called calculateVolumeWeightedStockPrice method.
+2016-12-15 17:10:58 INFO  StockController:43 - Called buy method.
+2016-12-15 17:10:58 WARN  StockController:34 - Quantity can not be nagative or zero.
+2016-12-15 17:11:10 INFO  StockController:43 - Called buy method.
+2016-12-15 17:11:10 WARN  StockController:34 - Quantity can not be nagative or zero.
+2016-12-15 17:12:36 INFO  StockController:43 - Called buy method.
+2016-12-15 17:12:36 WARN  StockController:34 - Quantity can not be nagative or zero.
+2016-12-15 17:12:48 INFO  StockController:43 - Called buy method.

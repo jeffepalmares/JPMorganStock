@@ -30,8 +30,6 @@ public class StockController {
 		
 			Stock stock = StockFactory.createStock( symbol,price );
 			
-			stock.setPrice( price );
-		
 			return stock;
 			
 		}catch( BusinessException ex ){

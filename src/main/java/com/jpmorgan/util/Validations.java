@@ -2,6 +2,8 @@ package com.jpmorgan.util;
 
 import java.lang.reflect.Field;
 
+import com.jpmorgan.model.StockSymbol;
+
 public class Validations {
 
 	public static boolean isNotValidObject( Object obj ) {
@@ -33,4 +35,5 @@ public class Validations {
 		}
 
 	}
+	
 }
