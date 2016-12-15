@@ -1,5 +1,5 @@
 # JPMorgan - Exercise
-This project was created to attend the JPMorgan Excise application.
+This project was created to attend the JPMorgan Exercise application.
 
 #Functional Requirements
 
