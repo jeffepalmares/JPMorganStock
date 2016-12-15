@@ -27,7 +27,7 @@ This project was created to attend the JPMorgan Excise application.
 
 For this project you will need:
 
-	- Maven
+	- Maven 3.3.9
 	- Java 1.8
 		
 
