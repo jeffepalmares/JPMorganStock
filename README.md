@@ -26,6 +26,7 @@ This project was created to attend the JPMorgan Excise application.
 #Requirements to run the prject
 
 For this project you will need:
+
 	- Maven
 	- Java 1.8
 		
@@ -33,6 +34,7 @@ For this project you will need:
 #Running the Project
 Download the project by git clone ($ git clone https://github.com/jeffepalmares/JPMorganStock.git ) or zip download
 then go into the project folder and run the commands:
+
 	$ mvn package
 	$ cd target
 	$ java -jar JPMorganStock-1.0.jar
